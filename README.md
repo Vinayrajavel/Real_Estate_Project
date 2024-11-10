@@ -1,2 +1,2 @@
 # Real_Estate_Project
-prediction of real estate price
+prediction of real estate price. real estate project means the development of a building or a building consisting of apartments, or converting an existing building or a part thereof into apartments, or the development of land into plots or apartment, as the case may be, for the purpose of selling all or some of the said apartments or plots or building, as the case may be, and includes the common areas, the development works, all improvements and structures thereon, and all easement, rights and appurtenances belonging thereto
